@@ -1,0 +1,1 @@
+5 4 * * 1 root /root/ssl/check2getSSL.sh > /root/ssl/ssl_check.log 2>&1

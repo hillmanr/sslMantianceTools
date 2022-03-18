@@ -1,0 +1,17 @@
+# dnsExit login credentials
+version="003"
+
+dnsExitToken="3HmQYgCc7ye7bQ5ZgeZsFuUY2O5b3i"
+dnsExitBaseDomain="zbob.org"
+
+host="truenas"
+user="hillmanr" 
+
+sslDir="/home/pi/test/"
+sslcert="cert.pem"
+sslkey="private.key"
+
+cmd1="document privatekey $sslDir$sslkey"
+cmd2="document cert $sslDir$sslcert"
+cmd3="docappend csr $sslDir$sslcert"
+
