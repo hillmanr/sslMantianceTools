@@ -1,11 +1,11 @@
 # dnsExit login credentials
 version="003"
 
-dnsExitToken="3HmQYgCc7ye7bQ5ZgeZsFuUY2O5b3i"
-dnsExitBaseDomain="zbob.org"
+dnsExitToken="3HmQ2O5b3i"
+dnsExitBaseDomain="xxx.com"
 
 host="truenas"
-user="hillmanr" 
+user="user" 
 
 sslDir="/home/pi/test/"
 sslcert="cert.pem"
